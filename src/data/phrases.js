@@ -165,7 +165,7 @@ export const phraseSets = {
       66: "Favourite hits",
       67: "Wintery heaven",
       68: "Mince pies on a plate",
-      69: "Snowfall divine",
+      69: "Santa's treat",
       70: "Santa’s grotto",
       71: "Turkeys done",
       72: "Christmas brew",
